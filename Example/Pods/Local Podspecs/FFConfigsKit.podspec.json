@@ -1,0 +1,22 @@
+{
+  "name": "FFConfigsKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFConfigsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaobt/FFConfigsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "juechufengshenger@126.com": "xiaobing.tang@zhaopin.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/xiaobt/FFConfigsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFConfigsKit/Classes/**/*"
+}
